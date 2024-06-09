@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3jiR0swurldd
-- 👀 I’m interested in Front-end developemnt 
-- 🌱 I’m currently learning Front-End Development with the Odin Project 
-- 📫 How to reach me ejiroorogun1@icloud.com - email and imessage
+- 👀 I’m interested in Data Analysis 
+- 🌱 I’m currently sharpening my Python Skills for data analysis. 
+- 📫 How to reach me ejiroorogun1@icloud.com - email 
 
 <!---
 3jiR0swurldd/3jiR0swurldd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
