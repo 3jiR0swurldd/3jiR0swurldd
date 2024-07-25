@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3jiR0swurldd
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently sharpening my Python Skills for data analysis. 
+- 👀 I’m interested in Python
+- 🌱 I’m currently sharpening my Python Skills.
 - 📫 How to reach me ejiroorogun1@icloud.com - email 
 
 <!---
