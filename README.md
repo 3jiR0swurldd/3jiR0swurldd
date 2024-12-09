@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3jiR0swurldd
-- 👀 I’m interested in Python
+- 👀 I’m interested in DevOps and Cloud architecture. 
 - 🌱 I’m currently sharpening my Python Skills.
 - 📫 How to reach me ejiroorogun1@icloud.com - email 
 
